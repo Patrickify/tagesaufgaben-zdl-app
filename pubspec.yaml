@@ -1,0 +1,16 @@
+name: tagesaufgaben_zdl_app
+description: Aufgaben-App für tägliche Betriebsaufgaben
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.0
+  flutter_local_notifications: ^15.1.0
+
+flutter:
+  uses-material-design: true
