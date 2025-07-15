@@ -1,3 +1,10 @@
 # Tagesaufgaben ZDL
 
-App zur Verwaltung täglicher Betriebsaufgaben mit Admin-Modus und Push-Erinnerungen.
+Ein Starterprojekt für deine Aufgaben-App mit:
+
+- Benutzername-Login (ohne Passwort)
+- Admin-Modus (geschützt durch Passwort)
+- Aufgaben hinzufügen/löschen (Admins)
+- Aufgabe abhaken mit Name+Zeit
+- Abwesenheitsmodus zum Stummschalten
+- Rein offline – kein Tracking, kein Cloud-Zwang
